@@ -1,0 +1,4 @@
+D:\demowcf\DemoWCF\Host\bin\Host.dll
+D:\demowcf\DemoWCF\Host\bin\Host.pdb
+D:\demowcf\DemoWCF\Host\obj\Debug\Host.dll
+D:\demowcf\DemoWCF\Host\obj\Debug\Host.pdb
